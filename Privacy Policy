@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #A26C76;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p>Last updated: April 2026</p>
+
+<p>This Privacy Policy describes how our mobile application ("App") collects, uses, and protects your information.</p>
+
+<h2>1. Information We Collect</h2>
+
+<p>We may collect the following types of information:</p>
+
+<ul>
+  <li><strong>Account Information:</strong> Email address when you sign in using email/password or Google Sign-In.</li>
+  <li><strong>User Content:</strong Photos, videos, and milestone data you create inside the app.</li>
+</ul>
+
+<h2>2. How We Store Your Data</h2>
+
+<p>All photos, videos, and personal content are stored locally on your device using secure storage (SQLite database and device file system).</p>
+
+<p>We do not upload or share your private media to external servers unless explicitly stated in future updates.</p>
+
+<h2>3. Google Sign-In</h2>
+
+<p>If you choose to sign in with Google, we receive your email address from Google authentication services.</p>
+
+<p>We do not access your Google account beyond authentication.</p>
+
+<h2>4. Data Usage</h2>
+
+<p>Your data is used only to provide core app functionality, including:</p>
+
+<ul>
+  <li>Saving and displaying your milestones</li>
+  <li>Managing your account</li>
+</ul>
+
+<h2>5. Data Sharing</h2>
+
+<p>We do not sell, trade, or share your personal data with third parties.</p>
+
+<h2>6. Data Security</h2>
+
+<p>We take reasonable measures to protect your data. However, no method of storage is 100% secure.</p>
+
+<h2>7. Children's Privacy</h2>
+
+<p>This app may contain content related to children (such as baby milestones), but it is intended for use by parents or guardians.</p>
+
+<p>We do not knowingly collect personal information from children.</p>
+
+<h2>8. Your Rights</h2>
+
+<p>You can:</p>
+
+<ul>
+  <li>Delete your data by removing the app from your device</li>
+  <li>Stop using the service at any time</li>
+</ul>
+
+<h2>9. Changes to This Policy</h2>
+
+<p>We may update this Privacy Policy from time to time. Updates will be posted on this page.</p>
+
+<h2>10. Contact Us</h2>
+
+<p>If you have any questions, please contact us at:</p>
+
+<p><strong>your-email@example.com</strong></p>
+
+</body>
+</html>
